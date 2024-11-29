@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "especie": "Dourado",
+    "descricao": "O dourado é conhecido como o 'rei do rio', famoso por sua força e beleza.",
+    "url": "https://fishcode.com.br/cdn/shop/products/dourado.jpg?v=1661448600",
+    "texto": "O dourado é um dos peixes mais emblemáticos do Pantanal, conhecido por suas escamas douradas brilhantes que refletem a luz como ouro. Ele é um predador voraz, alimentando-se principalmente de outros peixes. Sua força e agilidade fazem dele um desafio emocionante para pescadores esportivos. Além disso, o dourado é um peixe migratório, realizando longas jornadas rio acima durante a temporada de reprodução. Sua captura requer habilidade e paciência, pois ele é conhecido por saltar e lutar intensamente. É também uma espécie muito valorizada pela culinária, mas no contexto da pesca esportiva, sua devolução ao rio é incentivada para garantir a preservação da espécie."
+  },
+  {
+    "id": 2,
+    "especie": "Pintado",
+    "descricao": "Peixe de grande porte com manchas características, muito apreciado na pesca esportiva.",
+    "url": "https://fishcode.com.br/cdn/shop/products/pintado.jpg?v=1679429706",
+    "texto": "O pintado é uma das espécies mais icônicas do Pantanal, facilmente reconhecível por suas manchas pretas sobre o corpo prateado. Ele pode atingir tamanhos impressionantes, o que o torna uma meta atrativa para pescadores. Este peixe habita áreas de rios com correnteza moderada e fundo arenoso, onde costuma se alimentar de peixes menores e outros organismos aquáticos. A pesca do pintado exige equipamentos resistentes devido à sua força e resistência durante a luta. Na cultura local, ele é muito valorizado não apenas pelo desafio esportivo, mas também por sua carne de excelente qualidade, frequentemente usada em pratos tradicionais como o caldo de peixe."
+  },
+  {
+    "id": 3,
+    "especie": "Jaú",
+    "descricao": "O jaú é um gigante das águas doces brasileiras, sendo um prêmio para os pescadores.",
+    "url": "https://api.reiparmulticenter.com.br/media/fish/pirarara.png",
+    "texto": "O jaú é uma das maiores espécies de peixes de água doce do Brasil, conhecido por seu tamanho impressionante e força extraordinária. É um peixe solitário, geralmente encontrado em águas profundas, perto de troncos submersos e tocas. O jaú é um predador de emboscada, alimentando-se de peixes e outros animais aquáticos. Pescar um jaú exige muita experiência e paciência, pois ele é famoso por sua resistência durante a captura. Além disso, sua presença nos rios é um indicador de um ecossistema saudável. Por ser uma espécie de crescimento lento, práticas de pesca sustentável são essenciais para garantir sua preservação a longo prazo."
+  },
+  {
+    "id": 4,
+    "especie": "Pacu",
+    "descricao": "Onívoro com mandíbulas fortes, muito comum e apreciado no Pantanal.",
+    "url": "https://t3.ftcdn.net/jpg/03/58/21/92/360_F_358219230_EBxUtOKWTVowCIR9GaV3Oz2fzNW6fudk.jpg",
+    "texto": "O pacu é um peixe muito popular no Pantanal, conhecido por sua dieta diversificada que inclui frutas, sementes e pequenos organismos aquáticos. Sua mandíbula forte é adaptada para triturar alimentos duros, como castanhas e frutos caídos das árvores. Ele desempenha um papel importante no ecossistema, ajudando na dispersão de sementes e na manutenção do equilíbrio ambiental. O pacu é uma espécie robusta e resistente, tornando-se um desafio divertido para pescadores. Além disso, é amplamente apreciado na culinária, sendo ingrediente principal em pratos regionais como o churrasco de pacu e o moqueca. Pescar pacus é uma experiência marcante para quem visita o Pantanal."
+  }
+]
